@@ -2,5 +2,5 @@
 main()
 {
 printf("Welcome");
-  printf("spark institute");
+printf("spark institute");
 }
