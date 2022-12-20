@@ -14,5 +14,6 @@ void main()
 	
 	avg=total/3;
 	printf("\nAvg=%d",avg);
+	printf("\n Finish");
 	
 }
